@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.keonheej.intellijplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.keonheej.intellijplugin.MyBundle
 
 class MyApplicationService {
 
